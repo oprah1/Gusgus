@@ -1,0 +1,21 @@
+td 
+{
+    border-bottom: 1px solid black; 
+    padding: 15px;
+    background-color: white;
+    color:#595757  ;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.headTab{
+    background-color: white;
+}
+th{
+    background-color: black;
+    color: white;
+    padding: 25px;
+    
+}

@@ -1,0 +1,22 @@
+{
+    "name": "gustavestore",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Adam",
+    "license": "MIT",
+    "dependencies": {
+        "body-parse": "^0.1.0",
+        "cors": "^2.8.5",
+        "express": "^4.16.4",
+        "morgan": "^1.9.1",
+        "mysql": "^2.16.0",
+        "mysql2": "^1.6.4",
+        "nodemailer": "^5.1.1",
+        "nodemon": "^1.18.9"
+    }
+}
